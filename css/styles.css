@@ -1,0 +1,62 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  /* background-image: url("../Images/dig.jpg"); */
+  background-color: #cee5d0;
+}
+
+h1 {
+  /* width: auto; */
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  position: absolute;
+  left: 45%;
+  bottom: 250px;
+  color: white;
+
+}
+h2, h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.developer{
+  position: absolute;
+  bottom: 250px;
+  left: 59%;
+  color: white;
+}
+/* div{
+  background-color: #cee5d0;
+} */
+.top_container{
+  position: relative;
+  padding-top: 400px;
+  width: 100%;
+  height: auto;
+  background-image: url("../Images/11.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.middle_container{
+}
+.bottom_container{
+}
+/* .top_cloud{
+  position: absolute;
+  right: 500px;
+  top: 50px;
+} */
+.profile {
+  border-radius: 20px;
+}
+.digital {
+  /* possition: absolute; */
+  width: 700px;
+  background-color: #cee5d0;
+}
+.bottom_cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
