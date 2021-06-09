@@ -13,16 +13,16 @@ h1 {
   font-size: 50px;
   position: absolute;
   left: 450px;
-  bottom: 300px;
+  bottom: 250px;
   color: white;
 }
 h2, h3{
   font-family: 'Montserrat', sans-serif;
 }
 .developer{
-  position: inherit;
-  bottom: 310px;
-  /* left: 450px; */
+  position: absolute;
+  bottom: 260px;
+  left: 600px;
   color: white;
 }
 /* div{
