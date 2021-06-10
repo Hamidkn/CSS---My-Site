@@ -16,7 +16,10 @@ h1 {
   bottom: 250px;
   color: white;
 }
-h2, h3{
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
   font-family: 'Montserrat', sans-serif;
 }
 .developer{
@@ -58,4 +61,28 @@ h2, h3{
   position: absolute;
   left: 400px;
   bottom: 300px;
+}
+.skills {
+  border-radius: 50px;
+}
+.skill-row {
+
+margin: auto;
+width: 60%;
+padding: 10px;
+}
+
+.development {
+  width: 900px;
+  text-align: center;
+  line-height: 30px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.expereince {
+    width: 900px;
+    text-align: center;
+    line-height: 30px;
+    text-align: justify;
+    text-justify: inter-word;
 }
