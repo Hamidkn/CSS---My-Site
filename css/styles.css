@@ -1,4 +1,3 @@
-
 body {
   margin: 0;
   text-align: center;
@@ -10,79 +9,116 @@ body {
 h1 {
   /* width: auto; */
   font-family: 'Sacramento', cursive;
-  font-size: 50px;
+  /* color: #66BFBF; */
+  font-size: 5.5rem;
   position: absolute;
-  left: 450px;
-  bottom: 250px;
+  left: 470px;
+  bottom: 290px;
   color: white;
+  /* margin-top: 50px; */
 }
-h2{
+
+h2 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  /* color: #66BFBF; */
 }
+
 h3 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #11999E;
 }
-.developer{
+
+.developer {
   position: absolute;
-  bottom: 260px;
-  left: 600px;
+  bottom: 280px;
+  left: 670px;
   color: white;
 }
+
 /* div{
   background-color: #cee5d0;
 } */
-.top_container{
+.top_container {
   position: relative;
-  padding-top: 400px;
+  padding-top: 500px;
   width: 100%;
   height: auto;
   background-image: url("../Images/11.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
-.middle_container{
+
+.middle_container {}
+
+.bottom_container {
+  color: #11999E;
 }
-.bottom_container{
-}
+
 /* .top_cloud{
   position: absolute;
   right: 500px;
   top: 50px;
 } */
-.profile {
+.profile-photo {
   border-radius: 20px;
 }
+
 .digital {
   /* possition: absolute; */
   width: 700px;
   background-color: #cee5d0;
 }
-.bottom_cloud{
+
+.bottom_cloud {
   position: absolute;
   left: 400px;
   bottom: 300px;
 }
-.skills {
+.profile {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+.develope-image {
   border-radius: 50px;
+  float: left;
+  width: 40%;
+  margin-right: 30px;
 }
+.experiences-image {
+  float: right;
+  width: 30%;
+  margin-left: 30px;
+}
+
 .skill-row {
-
-margin: auto;
-width: 60%;
-padding: 10px;
+  margin: auto;
+  width: 60%;
+  padding: 10px;
 }
 
-.development {
+.profile-text {
   width: 900px;
-  text-align: center;
   line-height: 30px;
   text-align: justify;
   text-justify: inter-word;
 }
+.development {
+  width: 900px;
+  line-height: 30px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .expereince {
-    width: 900px;
-    text-align: center;
-    line-height: 30px;
-    text-align: justify;
-    text-justify: inter-word;
+  /* width: 900px; */
+  line-height: 30px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.contact-me {
+  margin-top: 60px;
+  /* position: relative; */
 }
