@@ -64,7 +64,8 @@ h3 {
   top: 50px;
 } */
 .profile-photo {
-  border-radius: 20px;
+  width: 20%;
+  border-radius: 50%;
 }
 
 .digital {
