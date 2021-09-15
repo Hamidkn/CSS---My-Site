@@ -109,20 +109,20 @@ h3 {
 }
 
 .profile-text {
-  width: 900px;
+  /* width: 900px; */
   /* margin: auto; */
   line-height: 30px;
   text-align: justify;
   text-justify: inter-word;
 }
 .development {
-  width: 900px;
+  /* width: 900px; */
   line-height: 30px;
   text-align: justify;
   text-justify: inter-word;
 }
 
-.expereince {
+.expereince, .publication {
   /* width: 900px; */
   line-height: 30px;
   text-align: justify;
