@@ -11,11 +11,11 @@ h1 {
   font-family: 'Sacramento', cursive;
   /* color: #66BFBF; */
   font-size: 5.5rem;
-  position: absolute;
-  left: 470px;
-  bottom: 290px;
+  position: relative;
+  /* left: 470px; */
+  bottom: 450px;
   color: white;
-  /* margin-top: 50px; */
+  /* margin-top: 5px; */
 }
 
 h2 {
@@ -31,9 +31,9 @@ h3 {
 }
 
 .developer {
-  position: absolute;
-  bottom: 280px;
-  left: 670px;
+  position: relative;
+  bottom: 510px;
+  /* left: 670px; */
   color: white;
 }
 
