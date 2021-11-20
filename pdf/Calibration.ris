@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Neghab, Hamed Keshmiri
+AU  - Neghab, Hamid Keshmiri
+PY  - 2021
+Y2  - 2021/10/03
+TI  - Calibration of a Nonlinear DC Motor under Uncertainty Using Nonlinear Optimization Techniques
+JF  - Periodica Polytechnica Electrical Engineering and Computer Science
+JA  - Period. Polytech. Elec. Eng. Comp. Sci.
+VL  - 65
+IS  - 1
+SE  - 
+DO  - 10.3311/PPee.16165
+UR  - https://pp.bme.hu/eecs/article/view/16165
+SP  - 42-52
+AB  - &lt;p&gt;The use of DC motors is increasingly high and it has more parameters which should be normalized. Now the calibration of each parameters is important for each motor, because it affects in its performance and accuracy. A lot of researches are investigated in this area. In this paper demonstrated how to estimate the parameters of a Nonlinear DC Motor using different Nonlinear Optimization techniques of fitting parameters to model, that called model calibration. First, three methods for calibration of a DC motor are defined, then unknown parameters of the mathematical model with the nonlinear optimization techniques for the fitting routines and model calibration process, are identified. In addition, three optimization techniques such as Levenberg-Marquardt, Constrained Nonlinear Optimization and Gauss-Newton, are compared. The goal of this paper is to estimate nonlinear parameters of a DC motor under uncertainty with nonlinear optimization methods by using LabVIEW software as an industrial software and compare the nonlinear optimization methods based on position, velocity and current. Finally, results are illustrated and comparison between these methods based on the results are made.&lt;/p&gt;
+ER  -
